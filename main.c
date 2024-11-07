@@ -2,6 +2,7 @@
 
 int main() {
   char name[] = "Shamim";
-  printf("Hello, %s", name);
+  int age = 20;
+  printf("Hello, I am %s. My age is %d", name, age);
   return 0;
 }

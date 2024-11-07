@@ -1,2 +1,2 @@
-# learn-c
+# Learn c
 Learning C Project
